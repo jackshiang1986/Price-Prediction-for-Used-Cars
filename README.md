@@ -16,6 +16,3 @@ Below are the .ipynb files for this project:
 3. Price Prediction for Used Cars_Model Deployment.ipynb
    
    Simple demonstration for model deployment using the .py module.
-
-
-ddd
